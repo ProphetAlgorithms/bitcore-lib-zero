@@ -89,7 +89,7 @@
     "buffer-compare": "=1.0.0",
     "elliptic": ">=6.5.4",
     "inherits": "=2.0.1",
-    "lodash": "=3.10.1"
+    "lodash": ">=4.17.19"
   },
   "devDependencies": {
     "bitcore-build-zero": "github.com/ProphetAlgorithms/bitcore-build-zero",
